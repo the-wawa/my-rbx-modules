@@ -1,0 +1,1 @@
+This module exists to fully cover the Promise API from JavaScript. It exists thanks to evaera's brilliant [Promise module](https://github.com/evaera/roblox-lua-promise) also written for Roblox
